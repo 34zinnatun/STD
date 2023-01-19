@@ -1,0 +1,4 @@
+2.4). What if we want to record course scores?  What possible changes need to be made? 
+
+if we have to scores of each course then we have create a new entity class and that needs to be mapped with course
+and corresponding changes to be updated in DAO and actions as well. 
